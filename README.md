@@ -17,10 +17,8 @@ This repository implements **3D CoAt U SegNet**, which combines:
 ```
 ├── main.py            # Entry point
 ├── train.py           # Training logic
-├── models/
-│   └── model.py       # CoAt U SegNet architecture
-├── utils/
-│   └── utils.py       # Preprocessing and metrics
+├── model.py       # CoAt U SegNet architecture
+├── utils.py       # Preprocessing and metrics
 ├── requirements.txt   # Python dependencies
 └── README.md          # Project overview
 ```
